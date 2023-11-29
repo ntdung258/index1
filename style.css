@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #39BEF8;
+    max-width: 2629.41px;
+    height: 1343px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 306px;
+}
+.frame1{
+    background-color: #000000;
+    max-width: 1554px;
+    height: 772px;
+    border-radius: 20px;
+    border: 3px solid #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tag{
+    background-color: #2DC071;
+    color: #FFFFFF;
+    border-radius: 30.42px;
+    max-width: 141px;
+    height: 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 121px;
+    position: relative;
+    left: 48%;
+    transform: translateX(-50%);
+}
+.tag span{
+    font-family: Montserrat;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.title{
+    margin-top: 18px;
+}
+.title span{
+    font-family: Montserrat;
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 121px;
+    color: #FFFFFF;
+}
+.title img{
+    max-width: 59px;
+    max-height: 59px;
+}
+.title-sub{
+    margin-top: 33px;
+}
+.title-sub span{
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 72px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.title-sub span b{ 
+    font-weight: 900;
+    color: #FFFFFF;
+}
+.badges-img{
+    margin-top: 60.47px;
+}
+.source{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 78px;
+    max-width: 2500px;
+    height: 493px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.source p{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0.19395539164543152px;
+    text-align: left;
+    
+}
+.source span{
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 0.19395539164543152px;
+    text-align: left;
+    color:  #252B42;
+}
+.footer-text1{
+    float: left;
+    width: 45%;
+}
+.footer-text2{
+    float: left;
+    width: 45%
+}
+.footer-img{
+    float: right;
+}
